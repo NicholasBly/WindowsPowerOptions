@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\bin\Debug\Hibernate.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\bin\Debug\Hibernate.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\bin\Debug\Hibernate.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Hibernate\Hibernate\obj\Debug\Hibernate.pdb
